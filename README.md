@@ -1,2 +1,3 @@
 # ClientServerChat
-Testing Client-Server interaction
+Тестирование Клинет Серверного взаимодействия
+Тестирование работы с сетью
